@@ -1,2 +1,116 @@
-# crmsystems
-springboot基于vue.js的客户关系管理系统(crm)的设计与实现
+# 项目介绍
+
+
+
+本系统一共分为管理员、员工俩个角色
+
+管理员在后台主要管理字典管理、沟通记录管理、客户管理、客户积分管理、客户线索管理、员工管理、管理员管理等。
+
+员工的主要功能个人中心、沟通记录管理、客户管理、客户积分管理、客户线索管理、客户线索管理等
+
+
+
+
+
+# 环境要求
+
+
+
+1.运行环境：最好是java jdk1.8,我们在这个平台上运行的。其他版本理论上也可以。 
+
+2.IDE环境：IDEA,Eclipse,Myeclipse都可以。推荐IDEA; 
+
+3.tomcat环境：Tomcat7.x,8.X,9.x版本均可 
+
+4.硬件环境：windows7/8/10 4G内存以上；或者Mac OS; 
+
+5.是否Maven项目：是；查看源码目录中是否包含pom.xml;若包含，则为maven项目，否则为非maven.项目 
+
+6.数据库：MySql5.7/8.0等版本均可；
+
+
+
+
+
+# 技术栈
+
+
+
+运行环境：jdk8 + tomcat9 + mysql5.7 + windows10
+
+服务端技术：SpringBoot + MyBatis + Vue + Bootstrap + jQuery
+
+
+
+
+
+# 使用说明
+
+
+
+
+
+1.使用Navicati或者其它工具，在mysql中创建对应sq文件名称的数据库，并导入项目的sql文件； 
+
+2.使用IDEA/Eclipse/MyEclipse导入项目，修改配置，运行项目； 
+
+3.将项目中config-propertiesi配置文件中的数据库配置改为自己的配置，然后运行；
+
+
+
+
+
+# 运行指导
+
+idea导入源码空间站顶目教程说明(Vindows版)-ssm篇：
+
+http://mtw.so/5MHvZq 
+
+源码看好后直接在网站付款下单即可，付款成功会自动弹出百度网盘链接，网站地址：[http://codegym.top](http://codegym.top/)
+
+其它问题请关注公众号：**IT小舟**,关注后发送消息即可，都会给您回复的。若没有及时回复请耐心等待，通常当天会有回复
+
+
+
+# 运行截图
+
+![hghghgh](https://gulimallcativen.oss-cn-shenzhen.aliyuncs.com/ghertuhgrtihfasdgfa/hghghgh.png)
+
+
+
+
+
+### 管理员
+
+![dasdsadas](https://gulimallcativen.oss-cn-shenzhen.aliyuncs.com/ghertuhgrtihfasdgfa/dasdsadas.png)
+
+![dasdasdasdas](https://gulimallcativen.oss-cn-shenzhen.aliyuncs.com/ghertuhgrtihfasdgfa/dasdasdasdas.png)
+
+![dasdasdasdasfasdd](https://gulimallcativen.oss-cn-shenzhen.aliyuncs.com/ghertuhgrtihfasdgfa/dasdasdasdasfasdd.png)
+
+![dasdasdasfasdfasd](https://gulimallcativen.oss-cn-shenzhen.aliyuncs.com/ghertuhgrtihfasdgfa/dasdasdasfasdfasd.png)
+
+![dasdasdasfdsefsd](https://gulimallcativen.oss-cn-shenzhen.aliyuncs.com/ghertuhgrtihfasdgfa/dasdasdasfdsefsd.png)
+
+
+
+![dsadasdasfdfasdfasdfdasfds](https://gulimallcativen.oss-cn-shenzhen.aliyuncs.com/ghertuhgrtihfasdgfa/dsadasdasfdfasdfasdfdasfds.png)
+
+
+
+
+
+### 员工
+
+![aasasaaaa](https://gulimallcativen.oss-cn-shenzhen.aliyuncs.com/ghertuhgrtihfasdgfa/aasasaaaa.png)
+
+![assd](https://gulimallcativen.oss-cn-shenzhen.aliyuncs.com/ghertuhgrtihfasdgfa/assd.png)
+
+![asssssassaa](https://gulimallcativen.oss-cn-shenzhen.aliyuncs.com/ghertuhgrtihfasdgfa/asssssassaa.png)
+
+![assssssd](https://gulimallcativen.oss-cn-shenzhen.aliyuncs.com/ghertuhgrtihfasdgfa/assssssd.png)
+
+
+
+
+
